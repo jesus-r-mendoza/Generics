@@ -23,5 +23,5 @@ public class NotEnoughSpaceException extends RuntimeException
      */
     public NotEnoughSpaceException(String msg) {
         super(msg);
-    }    
+    }     
 }

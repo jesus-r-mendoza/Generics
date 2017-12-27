@@ -15,7 +15,7 @@ public final class Sorting
      * Prohibits the instantiation of an instance of this class.
      */
     private Sorting() {
-    }
+    } 
     
     /**
      * Sorts the elements of a {@code SimpleSet}, if the element type implements

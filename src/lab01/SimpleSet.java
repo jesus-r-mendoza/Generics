@@ -15,7 +15,7 @@ package lab01;
  */
 
 public class SimpleSet<E> 
-{
+{ 
     /** 
      * Back-end array to store the elements of this SimpleSet.
      */
